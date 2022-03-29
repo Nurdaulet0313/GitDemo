@@ -17,6 +17,11 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUi");	
 	}
+	@Test
+	public void elementsUi4444444()
+	{
+		System.out.println("example");	
+	}
 	
 	
 }
